@@ -24,7 +24,7 @@
   "codeRepository": "https://github.com/fair-test/denjji",
   "contIntegration": "https://continue.comn",
   "dateCreated": "2024-10-17",
-  "dateModified": "2024-10-18",
+  "dateModified": "2024-10-17",
   "datePublished": "2024-10-01",
   "description": "description",
   "developmentStatus": "inactive",
@@ -66,6 +66,7 @@
     "other",
     "software"
   ],
-  "version": "0.0.0",
-  "type": "SoftwareSourceCode"
+  "version": "0.1.0",
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.119097"
 }

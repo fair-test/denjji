@@ -14,5 +14,6 @@ keywords:
   - test
 license: OCCT-PL
 repository-code: https://github.com/fair-test/denjji
-date-released: 2024-10-18
-version: 0.0.0
+date-released: '2024-10-17'
+version: 0.1.0
+doi: 10.5281/zenodo.119097

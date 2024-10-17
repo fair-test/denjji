@@ -1,0 +1,18 @@
+title: denjji
+authors:
+  - given-names: Dorian
+    family-names: Portillo
+    email: wheresdorian@gmail.com
+    affiliation: FAIR Data Innovations Hub
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: description
+keywords:
+  - key
+  - words
+  - test
+license: OCCT-PL
+repository-code: https://github.com/fair-test/denjji
+date-released: 2024-10-18
+version: 0.0.0

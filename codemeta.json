@@ -1,0 +1,71 @@
+{
+  "name": "denjji",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "applicationCategory": "Aviation test",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "https://continue.comn"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "is source code of"
+  },
+  "codeRepository": "https://github.com/fair-test/denjji",
+  "contIntegration": "https://continue.comn",
+  "dateCreated": "2024-10-17",
+  "dateModified": "2024-10-18",
+  "datePublished": "2024-10-01",
+  "description": "description",
+  "developmentStatus": "inactive",
+  "downloadUrl": "http://download.url",
+  "funder": {
+    "name": "funding org",
+    "type": "Organization"
+  },
+  "funding": "funding code",
+  "isPartOf": "https://isPartof.com",
+  "issueTracker": "https://github.com/fair-test/denjji/issues",
+  "keywords": [
+    "key",
+    "words",
+    "test"
+  ],
+  "license": "https://spdx.org/licenses/OCCT-PL",
+  "operatingSystem": [
+    "Windows 11",
+    "Windows 10",
+    "Windows 7",
+    "Big Sur (macOS 11)",
+    "Mojave (macOS 10.14)"
+  ],
+  "programmingLanguage": [
+    "C",
+    "C++",
+    "C#"
+  ],
+  "relatedLink": [
+    "https://related.com",
+    "https://links.com"
+  ],
+  "runtimePlatform": [
+    "CLR"
+  ],
+  "schema:releaseNotes": "stable release",
+  "softwareRequirements": [
+    "other",
+    "software"
+  ],
+  "version": "0.0.0",
+  "type": "SoftwareSourceCode"
+}

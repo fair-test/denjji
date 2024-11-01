@@ -12,8 +12,8 @@ keywords:
   - key
   - words
   - test
-license: Glide
+license: MIT
 repository-code: https://github.com/fair-test/denjji
-date-released: '2024-10-21'
-version: 0.1.4
-doi: 10.5281/zenodo.120371
+date-released: '2024-11-01'
+version: 1.0.0
+doi: 10.5281/zenodo.125370

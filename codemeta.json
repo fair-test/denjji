@@ -24,7 +24,7 @@
   "codeRepository": "https://github.com/fair-test/denjji",
   "contIntegration": "https://continue.comn",
   "dateCreated": "2024-10-17",
-  "dateModified": "2024-10-21",
+  "dateModified": "2024-11-01",
   "datePublished": "2024-10-01",
   "description": "description",
   "developmentStatus": "inactive",
@@ -41,7 +41,7 @@
     "words",
     "test"
   ],
-  "license": "https://spdx.org/licenses/Glide",
+  "license": "https://spdx.org/licenses/MIT",
   "operatingSystem": [
     "Windows 11",
     "Windows 10",
@@ -66,7 +66,7 @@
     "other",
     "software"
   ],
-  "version": "0.1.4",
+  "version": "1.0.0",
   "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.120371"
+  "identifier": "10.5281/zenodo.125370"
 }

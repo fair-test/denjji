@@ -4,16 +4,18 @@ authors:
     family-names: Portillo
     email: wheresdorian@gmail.com
     affiliation: FAIR Data Innovations Hub
+  - given-names: Jon
+    family-names: Doe
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: updating the description within the CITATION.cff file
+doi: 10.5281/zenodo.194072
+abstract: updating description from Codefair's UI
 keywords:
   - key
   - words
-  - test
+  - testing
 license: MIT
 repository-code: https://github.com/fair-test/denjji
-date-released: '2025-04-03'
-version: '12.2'
-doi: 10.5281/zenodo.194072
+date-released: 2025-04-03
+version: "12.2"

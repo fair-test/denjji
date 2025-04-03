@@ -1,7 +1,7 @@
 {
   "name": "denjji",
   "@context": "https://w3id.org/codemeta/3.0",
-  "applicationCategory": "Aviation test",
+  "applicationCategory": "Access",
   "author": [
     {
       "affiliation": {
@@ -13,33 +13,40 @@
       "id": "_:author_1",
       "givenName": "Dorian",
       "type": "Person"
+    },
+    {
+      "familyName": "Doe",
+      "id": "https://void.resume",
+      "givenName": "Jon",
+      "type": "Person"
     }
   ],
   "codemeta:continuousIntegration": {
-    "id": "https://continue.comn"
+    "id": "https://continue.com"
   },
   "codemeta:isSourceCodeOf": {
-    "id": "is source code of"
+    "id": "is source code of this"
   },
   "codeRepository": "https://github.com/fair-test/denjji",
-  "contIntegration": "https://continue.comn",
-  "dateCreated": "2024-10-17",
+  "contIntegration": "https://continue.com",
+  "dateCreated": "2024-10-01",
   "dateModified": "2025-04-03",
-  "datePublished": "2024-10-01",
-  "description": "updating the description within codemeta.json",
+  "datePublished": "2024-09-30",
+  "description": "updating description from Codefair's UI",
   "developmentStatus": "inactive",
   "downloadUrl": "http://download.url",
   "funder": {
-    "name": "funding org",
+    "name": "funding org2",
     "type": "Organization"
   },
-  "funding": "funding code",
+  "funding": "funding code1",
+  "identifier": "10.5281/zenodo.194072",
   "isPartOf": "https://isPartof.com",
   "issueTracker": "https://github.com/fair-test/denjji/issues",
   "keywords": [
     "key",
     "words",
-    "test"
+    "testing"
   ],
   "license": "https://spdx.org/licenses/MIT",
   "operatingSystem": [
@@ -52,21 +59,23 @@
   "programmingLanguage": [
     "C",
     "C++",
-    "C#"
+    "C#",
+    "Ada"
   ],
   "relatedLink": [
     "https://related.com",
-    "https://links.com"
+    "https://links2.com"
   ],
   "runtimePlatform": [
-    "CLR"
+    "CLR",
+    ".Net"
   ],
-  "schema:releaseNotes": "stable release",
+  "schema:releaseNotes": "cool stable release",
   "softwareRequirements": [
     "other",
-    "software"
+    "software",
+    "requirements"
   ],
   "version": "12.2",
-  "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.194072"
+  "type": "SoftwareSourceCode"
 }

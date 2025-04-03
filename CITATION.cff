@@ -14,6 +14,6 @@ keywords:
   - test
 license: MIT
 repository-code: https://github.com/fair-test/denjji
-date-released: '2024-11-01'
-version: 1.0.0
-doi: 10.5281/zenodo.125370
+date-released: '2025-04-03'
+version: '12.2'
+doi: 10.5281/zenodo.194072
